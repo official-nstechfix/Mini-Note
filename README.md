@@ -11,7 +11,7 @@ Mini Note is a simple yet powerful Chrome extension that allows users to take qu
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
+
 
 ## Features
 
@@ -39,7 +39,7 @@ Follow these steps to install the Mini Note Chrome Extension from the source cod
 1. **Clone the Repository**
    - First, clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/mini-note-extension.git
+   git clone https://github.com/official-nstechfix/Mini-Note.git
    ```
 
 2. **Open Chrome Extensions Page**
@@ -93,14 +93,12 @@ The character count updates as you type in the note field. This feature is helpf
 
 ## Screenshots
 
-### Main Interface
-![Main Interface Screenshot](link_to_screenshot)
+### Light Mode
+![Main Interface Screenshot](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Mini%20Note/Screenshot%20(72).png)
 
 ### Dark Mode
-![Dark Mode Screenshot](link_to_screenshot)
+![Dark Mode Screenshot](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Mini%20Note/Screenshot%20(73).png)
 
-### Notes Management
-![Notes Management Screenshot](link_to_screenshot)
 
 ## Contributing
 
@@ -109,7 +107,7 @@ We welcome contributions from the community! To contribute:
 1. **Fork the repository**: Click the "Fork" button at the top right of this page.
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/yourusername/mini-note-extension.git
+   git clone https://github.com/official-nstechfix/Mini-Note.git
    ```
 3. **Create a new branch**:
    ```bash
